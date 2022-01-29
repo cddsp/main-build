@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'cascadia';
+    src: URL('cascadia.ttf') format('truetype');
+}
+
+body{
+    font-family: 'cascadia' !important;
+}
